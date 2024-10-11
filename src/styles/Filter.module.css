@@ -1,0 +1,21 @@
+.divInput {
+  display: flex;
+  justify-content: center;
+}
+
+.styleInput {
+  border: none;
+  border-bottom: 2px solid rgb(128, 0, 9);
+  width: 260px;
+  margin: 30px;
+  outline: 1px solid rgb(168, 134, 151);
+  border-radius: 3px;
+  padding: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.styleInput::placeholder {
+  padding: 15px 10px;
+
+}

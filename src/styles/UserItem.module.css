@@ -1,0 +1,15 @@
+.divUserItem {
+  display: flex;
+  justify-content: left;
+  max-width: 270px;
+  background-color: #9b6875;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  color: #3f0c0c;
+}
+
+.pUserItem {
+  font-weight: 700;
+}
